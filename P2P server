@@ -1,0 +1,4 @@
+wget https://github.com/lucktu/n2n/blob/master/Linux/Old/linux_arm/n2n_v2_linux_arm_v2.6.0_r250_all_by_heiye.zip
+unzip n2n_v2_linux_arm_v2.6.0_r250_all_by_heiye.zip
+cd n2n_v2_linux_arm_v2.6.0_r250_all_by_heiye/static
+./supernode -l 7654
